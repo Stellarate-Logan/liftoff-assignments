@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Dog Trainer business App, It has Dog training progress, notes, user logins and a mobile app.
 ### Features
-Include Features here
+User Logins, Tracking Bar for dog training statistic and notes.
 ### Technologies
-Include Technologies here
+Service Now and JavaScript.
 ### What I'll Have to Learn
-Include what you will need to learn here
+ServiceNow and relearn some JavaScript.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/O4XqENFx
